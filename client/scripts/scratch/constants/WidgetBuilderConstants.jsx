@@ -33,7 +33,7 @@ export const WIDGET_TYPES = [
     },
     {
         id: 'leaderboard-widget',
-        label: 'Top X',
+        label: 'Leaderboard',
         noOfStats:[{value: 'one-stat', label: "1"}],
         defaultCaption: "See how the rest of the competition compares in StatsPro!",
         timeframes:[
